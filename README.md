@@ -1,5 +1,5 @@
 # exllamav3-openai-server
-An very basic OpenAI Compatible API server that is compatible with exllamav3 quantization formats. 
+An very basic OpenAI Compatible API server that is compatible with exllamav3 quantization formats. Works with most front ends like OpenWebUI or SillyTavern. 
 
 # Requirements
 
